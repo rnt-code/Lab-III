@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <link rel="icon" href="icon/homepage.png">
+	    <link rel="stylesheet" href="css/styles.css">
+	    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	    <script src="js/script.js"></script>	
+	    <title>Document</title>
+	</head>
+	<body>
+	    <header>
+			<h1>Problema 5</h1>
+		</header>
+	    <main>
+			<form class="seleccion">
+				<fieldset>
+					<legend>Biblioteca:</legend>
+					<label for="libro">Libros: </label>
+					<select name="libro" id="libro">
+						<option selected>Seleccionar libro</option>
+						<option value="1">Divergente</option>
+						<option value="2">Frozen</option>
+						<option value="3">Sirenas</option>
+						<option value="4">Insurgente</option>
+					</select>
+					<br>
+					<br>
+					<br>
+					<br>
+					<label>Condición: </label>
+					<input type="text" name="condicion" id="condicion" readonly="readonly">
+				</fieldset>
+			</form>
+			<br>
+			<form class="prestar">
+				<fieldset>
+				<legend>Préstamos</legend>
+				<label for="fechaprestamo">Fecha de préstamo: </label>
+				<input type="date" name="fechaprestamo" id="fechaprestamo" disabled>
+				<br>
+				<br>
+				<br>
+				<br>
+				<input type="button" id="calcular" name="calcular" value="Fecha devolución" disabled>
+				<input type="date" name="fechadevolucion" id="fechadevolucion" value="2021-05-04" readonly="readonly">
+			</fieldset>
+			</form>			
+		</main>
+	    <footer>
+		</footer>
+	</body>
+</html>

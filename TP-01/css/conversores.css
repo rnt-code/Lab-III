@@ -1,0 +1,31 @@
+.titulo {
+    text-align: center;
+}
+
+.entrada {
+    display: block;
+    text-align: center;
+}
+
+#dolar {
+    font-size: 20px;
+}
+
+#pesos {
+    font-size: 20px;
+}
+
+div.fuente {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.centrar {
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+

@@ -1,0 +1,21 @@
+#nota1, #nota2 {
+    width: 100px;
+    font-size: 15px;
+    text-align: center;
+}
+
+#asistencia {
+    height: 25px;
+    float: right;
+}
+
+#estado {
+    width: 140px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#borrar, #verestado {
+    height: 33px;
+}

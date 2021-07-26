@@ -1,0 +1,13 @@
+https://www.timestamp-converter.com/
+https://es.wikipedia.org/wiki/ISO_8601
+https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png
+https://blog.logrocket.com/javascript-date-libraries/
+https://blog.logrocket.com/4-alternatives-to-moment-js-for-internationalizing-dates/
+https://momentjs.com/docs/#/utilities/
+https://www.it-swarm-es.com/es/javascript/evite-que-la-funcion-de-fecha-de-javascript-cambie-el-desplazamiento-de-la-zona-horaria/1040878490/
+https://es.stackoverflow.com/questions/30902/evitar-auto-c%c3%a1lculo-del-timezone-en-javascript/30918#comment50466_30902
+https://qastack.mx/programming/439630/create-a-date-with-a-set-timezone-without-using-a-string-representation
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
+https://www.w3schools.com/jsref/jsref_tolocalestring.asp

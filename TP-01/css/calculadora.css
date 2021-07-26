@@ -1,0 +1,31 @@
+h1.titulo {
+    text-align: center;
+}
+
+.calc {
+    /*background-color: rgb(59, 105, 175);*/
+    margin: auto;
+}
+
+#num1 {
+    width: 130px;
+}
+
+#num2 {
+    width: 130px;
+}
+
+.figure {
+    cursor: pointer;
+}
+
+#resultado {
+    width: 210px;
+    font-size: 20px;
+    background-color: rgb(228, 228, 228);
+    text-align: right;
+}
+
+p.menuprinc {
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+#precunit1, #precunit2, #precunit3, #subt1, #subt2, #subt3, #total {
+    background-color: rgb(238, 238, 238);
+    text-align: right;
+}
+
+.item {
+    text-align: center;
+}
+
+#cant1, #cant2, #cant3 {
+    text-align: right;
+}
+
+.total {
+    font-weight: bolder;
+    text-align: right;
+}
